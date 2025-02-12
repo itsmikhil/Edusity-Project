@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@custom-variant 2xl (@media (max-width: 96rem));/*1536px*/
+@custom-variant xl (@media (max-width: 80rem));/*1280px*/
+@custom-variant lg (@media (max-width: 64rem));/*1024px*/
+@custom-variant md (@media (max-width: 48rem));/*768px*/
+@custom-variant sm (@media (max-width: 40rem));/*640px*/
